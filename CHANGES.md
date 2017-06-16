@@ -11,6 +11,16 @@
 
 # 59.x
 
+## 59.1.3
+
+- [CHANGE] WebRTC.h にインポートするヘッダーファイルを追加した
+
+  - RTCCameraVideoCapturer.h
+
+  - RTCMTLVideoView.h
+
+  - RTCVideoCapturer.h
+
 ## 59.1.1
 
 - [CHANGE] iOS: フレームワーク: ヘッダーファイルに RTCCameraVideoCapturer.h を追加する
