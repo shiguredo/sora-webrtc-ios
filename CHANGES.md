@@ -11,6 +11,12 @@
 
 # 60.x
 
+## 60.9.1
+
+M60#9 (9710de31ef15f42c86ccb0d69bd245da940b16fa)
+
+- [CHANGE] Bitcode を有効にした
+
 ## 60.1.1
 
 M60#1 (14abef55c9a72b26f24ddebf24b7ef88e1178f63)
