@@ -8,7 +8,7 @@ This repository provides built WebRTC libraries which is configured for [WebRTC 
 
 Add the following line to Cartfile.
 
-```
+```ruby
 # Without version
 github "shiguredo/sora-webrtc-ios"
 
@@ -20,7 +20,7 @@ github "shiguredo/sora-webrtc-ios" "64.6.0"
 
 To retrieve the binary using CocoaPods, you need to add a `source` line at the top of the default `source` in your `Podfile`, like this:
 
-```
+```ruby
 # ADD THIS LINE
 # Make sure to put it on top of the default CocoaPods specs to override "WebRTC" reference!
 source 'https://github.com/shiguredo/sora-ios-sdk-specs.git'
@@ -30,7 +30,7 @@ source 'https://github.com/CocoaPods/Specs.git'
 
 Then you can add the following line to `Podfile` as follows:
 
-```
+```ruby
 # Without version
 pod 'WebRTC'
 
