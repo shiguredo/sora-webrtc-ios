@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "WebRTC"
-  s.version      = "64.6.0"
+  s.version      = "66.8.0"
   s.summary      = "WebRTC library for WebRTC SFU Sora"
   s.description  = <<-DESC
                    WebRTC library for WebRTC SFU Sora
