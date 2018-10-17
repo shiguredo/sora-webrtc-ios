@@ -2,6 +2,10 @@
 
 This repository provides built WebRTC libraries which is configured for [WebRTC SFU Sora](https://sora.shiguredo.jp) iOS SDK.
 
+## Supperted WebRTC Version
+
+M70 (commit position 17)
+
 ## How to Use
 
 ### Carthage
@@ -13,7 +17,7 @@ Add the following line to Cartfile.
 github "shiguredo/sora-webrtc-ios"
 
 # With Version
-github "shiguredo/sora-webrtc-ios" "64.6.0"
+github "shiguredo/sora-webrtc-ios" "70.17.0"
 ```
 
 ### CocoaPods
@@ -35,7 +39,7 @@ Then you can add the following line to `Podfile` as follows:
 pod 'WebRTC'
 
 # With version
-pod 'WebRTC', '= 64.6.0'
+pod 'WebRTC', '= 70.17.0'
 ```
 
 ### Manual Download
@@ -44,7 +48,7 @@ Available from [releases](https://github.com/shiguredo/sora-webrtc-ios/releases)
 
 ## "Development" version
 
-Some releases are always comes with its "development" variants, for example `64.6.0` and `64.6.0-dev`. Development variants are smaller binaries, which:
+Some releases are always comes with its "development" variants, for example `70.17.0` and `70.17.0-dev`. Development variants are smaller binaries, which:
 
 - bitcode is stripped off and not available
 - support arm64 only (no armv7)
