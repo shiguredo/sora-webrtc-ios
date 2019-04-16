@@ -46,9 +46,9 @@ pod 'WebRTC', '= 73.10.0'
 
 Available from [releases](https://github.com/shiguredo/sora-webrtc-ios/releases) page of this repository.
 
-## "Development" version
+## "Development" version (iOS)
 
-Some releases are always comes with its "development" variants, for example `70.17.0` and `70.17.0-dev`. Development variants are smaller binaries, which:
+Some releases are always comes with its "development" variants, for example `73.10.0` and `73.10.0-dev`. Development variants are smaller binaries, which:
 
 - bitcode is stripped off and not available
 - support arm64 only (no armv7)
