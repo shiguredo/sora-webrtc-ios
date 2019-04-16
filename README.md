@@ -4,7 +4,7 @@ This repository provides built WebRTC libraries which is configured for [WebRTC 
 
 ## Supperted WebRTC Version
 
-M70 (commit position 17)
+M73 (commit position 10, `9b67cfa3d3735953d275c3c56f9a9f268bcd67bb`)
 
 ## How to Use
 
@@ -17,7 +17,7 @@ Add the following line to Cartfile.
 github "shiguredo/sora-webrtc-ios"
 
 # With Version
-github "shiguredo/sora-webrtc-ios" "70.17.0"
+github "shiguredo/sora-webrtc-ios" "73.10.0"
 ```
 
 ### CocoaPods
@@ -39,7 +39,7 @@ Then you can add the following line to `Podfile` as follows:
 pod 'WebRTC'
 
 # With version
-pod 'WebRTC', '= 70.17.0'
+pod 'WebRTC', '= 73.10.0'
 ```
 
 ### Manual Download
