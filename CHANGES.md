@@ -9,6 +9,10 @@
 - FIX
     - バグ修正
 
+# 75.11.0
+
+M75 (commit position 11, `bc55cdf696ce0cb54220ed9f1a445dba54ba49e5`)
+
 # 73.10.0
 
 M73#10 (9b67cfa3d3735953d275c3c56f9a9f268bcd67bb)
