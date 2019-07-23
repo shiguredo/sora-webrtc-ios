@@ -4,7 +4,7 @@ This repository provides built WebRTC libraries which is configured for [WebRTC 
 
 ## Supperted WebRTC Version
 
-M75 (commit position 11, `bc55cdf696ce0cb54220ed9f1a445dba54ba49e5`)
+M76 (commit position 3, `9863f3d246e2da7a2e1f42bbc5757f6af5ec5682`)
 
 ## How to Use
 
@@ -17,7 +17,7 @@ Add the following line to Cartfile.
 github "shiguredo/sora-webrtc-ios"
 
 # With Version
-github "shiguredo/sora-webrtc-ios" "73.10.0"
+github "shiguredo/sora-webrtc-ios" "76.3.0"
 ```
 
 ### CocoaPods
@@ -39,7 +39,7 @@ Then you can add the following line to `Podfile` as follows:
 pod 'WebRTC'
 
 # With version
-pod 'WebRTC', '= 73.10.0'
+pod 'WebRTC', '= 76.3.0'
 ```
 
 ### Manual Download
@@ -48,7 +48,7 @@ Available from [releases](https://github.com/shiguredo/sora-webrtc-ios/releases)
 
 ## "Development" version (iOS)
 
-Some releases are always comes with its "development" variants, for example `73.10.0` and `73.10.0-dev`. Development variants are smaller binaries, which:
+Some releases are always comes with its "development" variants, for example `76.3.0` and `76.3.0-dev`. Development variants are smaller binaries, which:
 
 - bitcode is stripped off and not available
 - support arm64 only (no armv7)

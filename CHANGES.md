@@ -9,6 +9,10 @@
 - FIX
     - バグ修正
 
+# 76.3.0
+
+M76 (commit position 3, `9863f3d246e2da7a2e1f42bbc5757f6af5ec5682`)
+
 # 75.11.0
 
 M75 (commit position 11, `bc55cdf696ce0cb54220ed9f1a445dba54ba49e5`)
